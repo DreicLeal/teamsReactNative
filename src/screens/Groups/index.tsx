@@ -9,7 +9,7 @@ import { GroupCard } from "@components/GroupCard";
 import { EmptyList } from "@components/EmptyList";
 import { Button } from "@components/Button";
 
-import { useState, useEffect, useCallback } from "react";
+import { useState, useCallback } from "react";
 import { useNavigation, useFocusEffect } from "@react-navigation/native";
 import Loading from "@components/Loading";
 
